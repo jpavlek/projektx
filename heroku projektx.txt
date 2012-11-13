@@ -1,0 +1,9 @@
+Jakov Pavlek@JAKOVPAVLEK-PC /f/Program Files/Heroku/projektx
+$ heroku apps:create projektx
+
+The 'heroku' gem has been deprecated and replaced with the H
+load and install from https://toolbelt.heroku.com.
+
+Creating projektx... done, stack is cedar
+http://projektx.herokuapp.com/ | git@heroku.com:projektx.git
+Git remote heroku added
